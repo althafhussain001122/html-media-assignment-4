@@ -1,0 +1,30 @@
+HTML entities are special codes used to represent characters that have a specific meaning in HTML or characters that are not easily typable on a standard keyboard. 
+They are often used to display reserved characters, 
+such as angle brackets (< and >), special characters, and symbols, without causing interpretation issues in HTML.
+
+Here are five commonly used HTML entities:-
+
+(1) `&lt`; - Less Than:
+Represents the less-than sign <. This entity is used to display the less-than symbol without triggering HTML interpretation.
+Example: <p>This is an example &lt;em&gt;text&lt;/em&gt;.</p>
+
+(2)`&gt;` - Greater Than:
+Represents the greater-than sign `>`. Similar to `&lt;`, this entity is used to display the greater-than symbol without causing HTML interpretation.
+Example: <p>For more information, visit our website &gt; <a href="#">here</a>.</p>
+
+(3)`&amp;` - Ampersand:
+Represents the ampersand `&`. 
+This entity is used to display the ampersand symbol without conflicting with HTML syntax. 
+It is especially crucial when including parameters or entities within URLs.
+Example: <p>For further details, contact us &amp; we'll assist you.</p>
+
+(4)`&quot;` - Double Quote:
+Represents the double quotation mark `"` character.
+ This entity is used to display double quotes within HTML attributes,
+ preventing them from being interpreted as the beginning or end of an attribute value.
+Example: <p>The title of the book is "Gone with the Wind".</p> 
+
+(5)`&copy;` - Copyright Symbol:
+Represents the copyright symbol ©. This entity is used to display the copyright symbol on a web page. 
+It is often used in legal notices and attributions.
+Example: <p>&copy; 2023 It is never too late to be what you might have been.</p>

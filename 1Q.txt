@@ -1,0 +1,27 @@
+(1) Structural Markup:
+HTML provides a set of elements that define the structure of a web page.
+These elements include headings, paragraphs, lists, tables, and more.
+Structural markup allows you to organize and present content in a logical and hierarchical manner.
+
+(2) Hyperlinks:
+HTML allows the creation of hyperlinks, 
+which are clickable elements that navigate to other web pages or resources. The `<a>` (anchor) element is used to define hyperlinks,
+ and it can link to other web pages, files, or even specific sections within a page.
+ 
+ (3) Multimedia Support:
+HTML supports the embedding of multimedia elements such as images, audio, and video. The `<img>` element is used for images, 
+while the `<audio>` and `<video>` elements are used for audio and video content, respectively.
+
+(4)Semantic Markup:
+HTML includes semantic elements that provide meaning to the content they enclose
+Examples of semantic elements include `<header>`, `<nav>`, `<article>`, `<section>`, `<footer>`, 
+and others.These elements help convey theintended meaning and structure of the content, making it more accessible to both humans and machines.
+
+(5)Local Storage:
+HTML introduced the localStorage and sessionStorage objects,
+ which allow web applications to store data locally on the user's device. 
+This provides a way to persistently store data between sessions without relying on server-side storage.
+
+(6) Geolocation API:
+HTML includes the Geolocation API, which allows web applications to access the user's geographical location information.
+ This feature enables the development of location-aware applications, such as mapping and location-based services.

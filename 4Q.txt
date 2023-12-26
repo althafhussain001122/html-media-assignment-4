@@ -1,0 +1,16 @@
+(1 )Semantic HTML Elements:
+Use semantic HTML elements to convey the structure and meaning of content.
+ Semantic elements, such as `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, and `<footer>`, provide 
+ a clear document structure that aids users with screen readers and other assistive technologies in understanding the content. 
+ Additionally, use heading elements (`<h1>`, `<h2>`, etc.)
+ in a logical hierarchy to create a meaningful outline of the document.
+
+ (2)Provide Alternative Text for Images:
+Provide Alternative Text for Images:
+
+Include descriptive alternative text for images using the `alt` attribute. This text is crucial for users who rely on screen readers, as it provides a textual description of the image. Ensure that the alternative text conveys the purpose and meaning of the image.
+
+(3) Use Color with Care: Color plays an important role in web design, but it should not be the only means of
+conveying information. Ensure that color is not the sole indicator of meaning. For example, when using error
+messages, pair color with text that explains the error. Additionally, maintain sufficient color contrast between
+text and background to enhance readability for users with low vision.
